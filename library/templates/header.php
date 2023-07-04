@@ -2,7 +2,7 @@
 
 ?>
 
-<head>
+<head> 
     <title>Library</title>
     <link rel="icon" href="../img/icon.png">
     <!-- Compiled and minified CSS -->
